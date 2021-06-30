@@ -1,0 +1,53 @@
+// Color-map
+$txtClr: (
+  "whity": #ffffff,
+  "darky": #333333,
+  "next-darky": #373737,
+  "mid-darky": #252525,
+  "light-darky": #504e4e,
+  "gray": #5b5858,
+  "mid-gray": #777777,
+  "light-gray": #c2c2c2,
+);
+
+$bgClr: (
+  "flat-white": #f2f2f2,
+  "flat-gray": #fbfbfb,
+  "grass": #70bd59,
+  "light-blacky": #2e2e2e,
+);
+
+$actClr: (
+  "greeny": #4caf50,
+  "greeny-block": #70bf73,
+);
+
+// Fonts
+$main-font: "Oswald", sans-serif;
+$sec-font: "Open Sans", sans-serif;
+// Linear-gradient
+// $line-grad: linear-gradient(177.86deg, #000000 -41.81%, rgba(0, 0, 0, 0.0001) 82.48%);
+// Transition
+$transition-duration: 250ms;
+$transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+// Transform
+$transform-effect: scale(1.1, 1.2);
+// Font-size
+$font-standard-size: 1rem;
+// Font-weight
+$thin-font-weight: 100;
+$light-font-weight: 300;
+$regular-font-weight: 400;
+$medium-font-weight: 500;
+$bold-font-weight: 700;
+$black-font-weight: 900;
+// Letter-spacing
+$base-letter-spacing: 0.03em;
+$pixel-letter-spacing: 1.08;
+// Line-height
+$base-line-height: 1.2;
+$secondary-line-height: 1.71;
+$additional-line-height: 1.5;
+// Layout-width
+$fullLayoutWidth: 1800px;
+$sidePadding: 315px * 2;
